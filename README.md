@@ -89,12 +89,3 @@
 </br>
 
 
-
-<h2 dir="auto">
-💡 More
-</h2>
-<br>
-  <p align="center" dir="auto">
-    프로젝트에 대한 더 자세한 정보를 확인하고 싶으시다면 <a href="https://narrow-tarsal-f76.notion.site/383bbf465cce48db8ff52da6e300ffe9">Notion</a> 에서 확인 가능합니다.
-   </p>
-
